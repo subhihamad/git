@@ -1,4 +1,4 @@
-## Hello everyone , Welcome to by Gide!
+## Hello Git from syria!
 
--this is subhi dev
+- my name is ahmed
 - I'm adding this from submain branch
